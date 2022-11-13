@@ -25,5 +25,5 @@ The following sites were helpful in working with Kotlin:
 
 Things I would like to work on or add in the future:
 * Seperate classes into their own files
-* Fix warnings in classes
+* Modify the program to use collections
 * Make the program an app instead of running in the terminal
