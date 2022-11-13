@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project marks my very first venture into the use of the Kotlin programming language. In completing this project, I have the opportunity, not only to learn a very marketable and widely used programming language, but also to demonstrate that I can pick up the basics of new coding languages quickly.
 
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
+The program will ask the user if they want to calculate the volume of a sphere or a cone and get measurements from the user. It will then calculate the volume of those shapes. The user will be asked to continually enter shapes and measurements until they decline to enter any more.
 
-{Describe your purpose for writing this software.}
+I am undertaking this project to help me to further my academic progress.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,19 +12,19 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This program was developed in Visual Studio Code.
 
-{Describe the programming language that you used and any libraries.}
+The program is written in Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+The following sites were helpful in working with Kotlin:
+* [Fireship channel on YouTube](https://www.youtube.com/watch?v=xT8oP0wy-A0) A very good overview of the "what" and "why" behind Kotlin
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Things I would like to work on or add in the future:
 * Item 1
 * Item 2
 * Item 3
