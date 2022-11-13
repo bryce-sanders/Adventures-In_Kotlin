@@ -6,25 +6,24 @@ The program will ask the user if they want to calculate the volume of a sphere o
 
 I am undertaking this project to help me to further my academic progress.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 This program was developed in Visual Studio Code.
 
-The program is written in Kotlin
+The program is written in Kotlin and makes use of Java's math library.
 
 # Useful Websites
 
 The following sites were helpful in working with Kotlin:
 * [Fireship channel on YouTube](https://www.youtube.com/watch?v=xT8oP0wy-A0) A very good overview of the "what" and "why" behind Kotlin
-* [Web Site Name](http://url.link.goes.here)
+* [FreeCodeCamp.org channel on YouTube](https://www.youtube.com/watch?v=F9UC9DY-vIU) A great tutorial on installing the IntelliJ IDE
+* [Programiz](https://www.programiz.com/kotlin-programming/class-objects) A good explaination of creating classes with Kotlin
 
 # Future Work
 
 Things I would like to work on or add in the future:
-* Item 1
-* Item 2
-* Item 3
+* Seperate classes into their own files
+* Fix warnings in classes
+* Make the program an app instead of running in the terminal
