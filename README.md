@@ -10,7 +10,7 @@ I am undertaking this project to help me to further my academic progress.
 
 # Development Environment
 
-This program was developed in Visual Studio Code.
+This program was developed in the IntelliJ IDE.
 
 The program is written in Kotlin and makes use of Java's math library.
 
